@@ -11,7 +11,7 @@ Os chamados dos usuarios só são visualizados por eles mesmos. E os tecnicos co
 
 Voce só irá precisar do JDK + NetBeans 8.0.1 ou superior + MYSQL + SGBD MySQL WorkBench.
 
-Voce pode importar o arquivo do banco em seu WorkBench.
+Voce pode importar o arquivo do banco em seu WorkBench e executar os scripts sequencialmente.
 
 Execute a classe TelaLogin.java para abrir o programa.
 
